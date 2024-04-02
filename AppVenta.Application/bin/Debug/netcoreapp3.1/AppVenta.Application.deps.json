@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AppVenta.Application/1.0.0": {
+        "dependencies": {
+          "AppVenta.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AppVenta.Application.dll": {}
+        }
+      },
+      "AppVenta.Domain/1.0.0": {
+        "runtime": {
+          "AppVenta.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppVenta.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppVenta.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

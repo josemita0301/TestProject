@@ -1,0 +1,13 @@
+C:\Users\USUARIO\source\repos\AppVenta.Domain\bin\Debug\netcoreapp3.1\AppVenta.Domain.exe
+C:\Users\USUARIO\source\repos\AppVenta.Domain\bin\Debug\netcoreapp3.1\AppVenta.Domain.deps.json
+C:\Users\USUARIO\source\repos\AppVenta.Domain\bin\Debug\netcoreapp3.1\AppVenta.Domain.runtimeconfig.json
+C:\Users\USUARIO\source\repos\AppVenta.Domain\bin\Debug\netcoreapp3.1\AppVenta.Domain.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\AppVenta.Domain\bin\Debug\netcoreapp3.1\AppVenta.Domain.dll
+C:\Users\USUARIO\source\repos\AppVenta.Domain\bin\Debug\netcoreapp3.1\AppVenta.Domain.pdb
+C:\Users\USUARIO\source\repos\AppVenta.Domain\obj\Debug\netcoreapp3.1\AppVenta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\AppVenta.Domain\obj\Debug\netcoreapp3.1\AppVenta.Domain.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\AppVenta.Domain\obj\Debug\netcoreapp3.1\AppVenta.Domain.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\AppVenta.Domain\obj\Debug\netcoreapp3.1\AppVenta.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\AppVenta.Domain\obj\Debug\netcoreapp3.1\AppVenta.Domain.dll
+C:\Users\USUARIO\source\repos\AppVenta.Domain\obj\Debug\netcoreapp3.1\AppVenta.Domain.pdb
+C:\Users\USUARIO\source\repos\AppVenta.Domain\obj\Debug\netcoreapp3.1\AppVenta.Domain.genruntimeconfig.cache

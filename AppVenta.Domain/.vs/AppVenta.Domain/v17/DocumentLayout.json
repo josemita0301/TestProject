@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6033186D-8F50-4369-877F-8D07DB1FB55F}|..\\AppVenta.Infrestructure.API\\AppVenta.Infrestructure.API.csproj|c:\\users\\usuario\\source\\repos\\appventa.infrestructure.api\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6033186D-8F50-4369-877F-8D07DB1FB55F}|..\\AppVenta.Infrestructure.API\\AppVenta.Infrestructure.API.csproj|c:\\users\\usuario\\source\\repos\\appventa.infrestructure.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6033186D-8F50-4369-877F-8D07DB1FB55F}|..\\AppVenta.Infrestructure.API\\AppVenta.Infrestructure.API.csproj|c:\\users\\usuario\\source\\repos\\appventa.infrestructure.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6033186D-8F50-4369-877F-8D07DB1FB55F}|..\\AppVenta.Infrestructure.API\\AppVenta.Infrestructure.API.csproj|c:\\users\\usuario\\source\\repos\\appventa.infrestructure.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705E0E12-1CA7-4DA4-818E-DC4CD7369B7F}|..\\AppVenta.Infrestructure.Data\\AppVenta.Infrestructure.Data.csproj|c:\\users\\usuario\\source\\repos\\appventa.infrestructure.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6033186D-8F50-4369-877F-8D07DB1FB55F}|..\\AppVenta.Infrestructure.API\\AppVenta.Infrestructure.API.csproj|c:\\users\\usuario\\source\\repos\\appventa.infrestructure.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6033186D-8F50-4369-877F-8D07DB1FB55F}|..\\AppVenta.Infrestructure.API\\AppVenta.Infrestructure.API.csproj|c:\\users\\usuario\\source\\repos\\appventa.infrestructure.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C96E61-48B9-4998-BC96-D5CCB33294AE}|..\\AppVenta.Application\\AppVenta.Application.csproj|c:\\users\\usuario\\source\\repos\\appventa.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705E0E12-1CA7-4DA4-818E-DC4CD7369B7F}|..\\AppVenta.Infrestructure.Data\\AppVenta.Infrestructure.Data.csproj|c:\\users\\usuario\\source\\repos\\appventa.infrestructure.data\\context\\salecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C96E61-48B9-4998-BC96-D5CCB33294AE}|..\\AppVenta.Application\\AppVenta.Application.csproj|c:\\users\\usuario\\source\\repos\\appventa.application\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1880,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Infrestructure.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\AppVenta.Infrestructure.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Infrestructure.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\AppVenta.Infrestructure.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T02:06:03.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Infrestructure.API\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\AppVenta.Infrestructure.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Infrestructure.API\\appsettings.json",
+              "RelativeToolTip": "..\\AppVenta.Infrestructure.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T02:05:56.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Infrestructure.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AppVenta.Infrestructure.API\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Infrestructure.API\\Program.cs",
+              "RelativeToolTip": "..\\AppVenta.Infrestructure.API\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:05:48.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Infrestructure.API\\Startup.cs",
+              "RelativeDocumentMoniker": "..\\AppVenta.Infrestructure.API\\Startup.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Infrestructure.API\\Startup.cs",
+              "RelativeToolTip": "..\\AppVenta.Infrestructure.API\\Startup.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:05:41.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\AppVenta.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\AppVenta.Application\\Services\\ProductService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:05:07.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Application\\Services\\SaleService.cs",
+              "RelativeDocumentMoniker": "..\\AppVenta.Application\\Services\\SaleService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Application\\Services\\SaleService.cs",
+              "RelativeToolTip": "..\\AppVenta.Application\\Services\\SaleService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwC8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:59:11.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SaleContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Infrestructure.Data\\Context\\SaleContext.cs",
+              "RelativeDocumentMoniker": "..\\AppVenta.Infrestructure.Data\\Context\\SaleContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Infrestructure.Data\\Context\\SaleContext.cs",
+              "RelativeToolTip": "..\\AppVenta.Infrestructure.Data\\Context\\SaleContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:57:27.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Infrestructure.Data\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AppVenta.Infrestructure.Data\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Infrestructure.Data\\Program.cs",
+              "RelativeToolTip": "..\\AppVenta.Infrestructure.Data\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:53:31.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Infrestructure.API\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "..\\AppVenta.Infrestructure.API\\Controllers\\SaleController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Infrestructure.API\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "..\\AppVenta.Infrestructure.API\\Controllers\\SaleController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA4wBQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:48:40.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Infrestructure.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "..\\AppVenta.Infrestructure.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AppVenta.Infrestructure.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "..\\AppVenta.Infrestructure.API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:38:53.563Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 475,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0504ff91-9d61-11d0-a794-00a0c9110051}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b9a151ce-ef7c-4fe1-a6aa-4777e6e518f3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
